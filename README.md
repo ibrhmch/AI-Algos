@@ -1,4 +1,4 @@
 # AI-Algos
-Contains AI Various Algorithms taught at Undergrad level.
+Contains Various AI Algorithms taught at Undergrad level.
 
 -- In Progress -- More Coming --
